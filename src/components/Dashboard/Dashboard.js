@@ -3,7 +3,9 @@ import "../../layouts/Dashboard.css";
 import Header from "../Header/Header";
 
 export default function Dashboard() {
-  console.log("fidgfdfhfhgdfghdfghdghdfghdfghdfghdfghfghdfrst");
+  console.log(
+    "fidgfdfhfxfgbcvbxcvnxcvnvhgdfghdfghdghdfgbvnhdfghdfghdfghfghdfrst"
+  );
   return (
     <>
       <Header />
