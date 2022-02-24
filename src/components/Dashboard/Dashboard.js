@@ -6,6 +6,7 @@ export default function Dashboard() {
   console.log(
     "fidgfdfhfxfgbcvbxcvnxcvnvhgdfghdfghdghdfgbvnhdfghdfghdfghfghdfrst"
   );
+  console.log("firsdfsdfdfdfsdfdsfsdfst");
   return (
     <>
       <Header />
